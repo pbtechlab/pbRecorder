@@ -1,0 +1,11 @@
+build/
+build*/
+release/
+dist/
+/third_party/
+/local/
+*.user
+*.swp
+*~
+*.log
+pbRecorder-*.zip
